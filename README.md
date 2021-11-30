@@ -5,3 +5,4 @@ Skribbl.io wordlists themed for certain 4chan boards.
 | Board | Word Count |
 | ------------- | ------------- |
 | /bant/  | 42 |
+| /k/ | 61 |
