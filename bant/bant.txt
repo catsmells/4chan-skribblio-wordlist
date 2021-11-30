@@ -1,6 +1,8 @@
 cirno,
 desu,
 yonkers,
+akariposter,
+starposter,
 demonposter,
 sataniaposter,
 raphiposter,
